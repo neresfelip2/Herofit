@@ -200,8 +200,8 @@ O app diferencia tipos de erro:
 ## 📱 Compatibilidade
 
 - **Min SDK**: 24 (Android 7.0)
-- **Target SDK**: 34 (Android 14)
-- **Compile SDK**: 34
+- **Target SDK**: 36 (Android 16)
+- **Compile SDK**: 36
 
 ## 🎨 Design
 
