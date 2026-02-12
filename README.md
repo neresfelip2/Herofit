@@ -31,7 +31,7 @@ app/
 │   ├── remote/        # API e responses
 │   ├── repository/    # Implementação dos repositórios
 │   └── mapper/        # Conversão de DTOs para Domain
-├── di/		             # Injeção de dependências
+├── di/		           # Injeção de dependências
 ├── domain/            # Camada de Domínio
 │   ├── model/         # Entidades de negócio
 │   ├── repository/    # Interfaces dos repositórios
