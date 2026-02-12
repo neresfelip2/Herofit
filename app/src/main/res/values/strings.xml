@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Herofit Brasil</string>
+
+    <string name="about">Sobre</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="see_leagues">Ver ligas</string>
+    <string name="social_media">Redes Sociais</string>
+    <string name="sports">Esportes</string>
+    <string name="youtube">YouTube</string>
+
+    <string name="acc_back_button">Botão voltar</string>
+    <string name="acc_empty_content">Ícone de conteúdo vazio</string>
+    <string name="acc_error_icon">Ícone de erro</string>
+    <string name="acc_banner">Banner da %1$s</string>
+    <string name="acc_logo">Logo da %1$s</string>
+    <string name="acc_enter_item">Entrar no item</string>
+</resources>
